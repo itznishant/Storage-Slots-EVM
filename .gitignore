@@ -1,0 +1,24 @@
+node_modules
+
+.env
+
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache/
+artifacts/
+
+#Contracts
+contracts/
+
+#Scripts
+scripts/deploy.js
+scripts/interact.js
+scripts/nft_lookup.js
+scripts/test.js
+
+#Misc
+.DS_Store
